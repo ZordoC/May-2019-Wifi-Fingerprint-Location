@@ -5,7 +5,7 @@
 
   <header>
       
-      <h1> Wifi-Fingprint Location </h1>
+  <h1> Wifi-Fingprint Location </h1>
       
    </header> 
    
