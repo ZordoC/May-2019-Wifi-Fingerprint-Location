@@ -1,3 +1,2 @@
-
-*.py linguist-language=python
-*.ipynb linguist-documentation
+Presentation_files/* linguist-vendored=false
+*.ipynb linguist-language=Python
